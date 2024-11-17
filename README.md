@@ -26,14 +26,6 @@ The "targets" attribute indicates which elements will receive the response to th
 The "js-rest-keys" attribute informs the JSON path of the response, and may indicate more than one path according to the order of the elements indicated in "targets": "<JSON_PATH_1>;<JSON_PATH_2>;..."
 ```
 
-Before "onclick":
-
-![alt text](image-1.png)
-
-After "onclick":
-
-![alt text](image.png)
-
 ```
 If you don't want to wait for an action, use the "auto" attribute to automatically initialize requests.
 ```
