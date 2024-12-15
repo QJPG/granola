@@ -25,13 +25,13 @@ A library that allows quick and direct access to some Javascript APIs in HTML at
 ![image](https://github.com/user-attachments/assets/7b2ba4f5-9f3f-4ac5-b036-c9d11414d67a)
 
 
-```
+```ruby
 In order:
 Whenever an element is to be analyzed by the library, use the "granola" attribute to indicate this.
 
 The "swap" attribute informs which JS property of the target elements will receive the responses.
 
-The "action" attribute informs: "<method>:<async[true/false]>@<url>".
+The "action" attribute informs: "<method>:<async=[true/false]>@<api-url>".
 
 The "targets" attribute indicates which elements will receive the response to the request.
 
