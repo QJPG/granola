@@ -22,7 +22,7 @@ A library that allows quick and direct access to some Javascript APIs in HTML at
 <button granola="true"
   swap="innerHTML"
   action="get:false@https://api.restful-api.dev/objects/7"
-  targets="#div #div2" js-rest-key="name;data/year">Click to Get Responses</button>
+  targets="#div #div2" js-rest-key="name;data/year">Click to Get Requisition</button>
 ```
 
 ![image](https://github.com/user-attachments/assets/7b2ba4f5-9f3f-4ac5-b036-c9d11414d67a)
