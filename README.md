@@ -38,7 +38,7 @@ The "action" attribute informs: "<method>:<async=[true/false]>@<api-url>".
 
 The "targets" attribute indicates which elements will receive the response to the request.
 
-The "js-rest-keys" attribute informs the JSON path of the response, and may indicate more than one path according to the order of the elements indicated in "targets": "<JSON_PATH_1>;<JSON_PATH_2>;..."
+The "js-rest-key" attribute informs the JSON path of the response, and may indicate more than one path according to the order of the elements indicated in "targets": "<JSON_PATH_1>;<JSON_PATH_2>;..."
 ```
 
 ```
